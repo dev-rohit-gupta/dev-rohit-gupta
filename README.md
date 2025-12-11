@@ -6,6 +6,6 @@
 - ⚡ Fun fact: everyone is a developer of own life 
 
 <!---
-Dev-roxy/Dev-roxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dev-rohit-gupta/dev-rohit-gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
