@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning scss
-- 📫 How to reach me : sapneme
+- 🌱 I’m currently learning system design
+- 📫 How to reach me : linkedin 
 - 😄 Pronouns: Not Defined
 - ⚡ Fun fact: everyone is a developer of own life 
 
